@@ -83,7 +83,8 @@ public class MainActivity extends AppCompatActivity {
         arrayList_suzuki.add("ADDRESS");
         arrayList_suzuki.add("NEX");
         arrayList_suzuki.add("SATRIA 150");
-        arrayList_suzuki.add("GSX");
+        arrayList_suzuki.add("GSX R150");
+        arrayList_suzuki.add("GSX 150");
 
         sp_merkmotor.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
