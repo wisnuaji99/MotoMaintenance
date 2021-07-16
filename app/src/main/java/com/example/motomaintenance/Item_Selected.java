@@ -43,7 +43,6 @@ public class Item_Selected extends AppCompatActivity {
         speedometer.setText(bundle.getString("speedometer"));
 
         isiservice = Integer.parseInt(bundle.getString("speedometer"));
-        Integer.toString(isiservice);
 
         if  (isiservice < 1000){
             services.setText("1. Penggantian oli "+"2. Pengecekan filter udara "+" 3. Pengecekan busi dan tekanan ban "+"4. Servis mesin");
