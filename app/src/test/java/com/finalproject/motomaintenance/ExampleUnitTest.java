@@ -1,4 +1,4 @@
-package com.example.motomaintenance;
+package com.finalproject.motomaintenance;
 
 import org.junit.Test;
 

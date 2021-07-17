@@ -1,4 +1,4 @@
-package com.example.motomaintenance;
+package com.finalproject.motomaintenance;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,8 +11,6 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
-
-import com.google.android.material.textfield.TextInputEditText;
 
 import java.util.ArrayList;
 

@@ -1,11 +1,10 @@
-package com.example.motomaintenance;
+package com.finalproject.motomaintenance;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.webkit.WebView;
 import android.widget.Button;
 import android.widget.TextView;
 
